@@ -1,0 +1,1 @@
+Extract FFMPEG.exe to current folder before running KsBot.py
